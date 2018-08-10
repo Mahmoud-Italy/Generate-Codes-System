@@ -1,9 +1,9 @@
 # Generate-Codes-System
 
-The purpose of this repository is to show small idea of generate code system as SASS Project Laravel 5.6 ,
-also there are tow business plan 
-1- Free plan limit 20 code daily
-2- Premuim plan unlimited code
+The purpose of this repository is to show small idea of generate code system <br/>
+as SASS Project Laravel 5.6 , also there are tow business plan <br/>
+1- Free plan limit 20 code daily<br/>
+2- Premuim plan unlimited code<br/>
 
 
 <h2>Some screenshots :</h2>
